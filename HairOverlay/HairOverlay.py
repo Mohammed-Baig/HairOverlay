@@ -5,7 +5,7 @@ import numpy as np
 
 cap = cv2.VideoCapture(0)
 
-imgFront = cv2.imread(r"PATH TO IMAGE", cv2.IMREAD_UNCHANGED)
+imgFront = cv2.imread(r'PATH TO IMAGE', cv2.IMREAD_UNCHANGED)
 imgFront = cv2.resize(imgFront, (0, 0), None, 0.3, 0.3)
 
 # Store a single frame as background 
