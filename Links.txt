@@ -1,0 +1,2 @@
+Link to inswapper_128.onnx for HairOverlay-4-ML: https://drive.google.com/file/d/1krOLgjW2tAPaqV-Bw4YALz0xT5zlb5HF/view
+Link to shape_predictor_68_face_landmarks.DAT: https://www.kaggle.com/datasets/sajikim/shape-predictor-68-face-landmarks
